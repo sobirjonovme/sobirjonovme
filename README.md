@@ -1,4 +1,4 @@
 ### Assalamu Alaikum!
 ## I'm Asadbek Sobirjonov
-- 📍 &nbsp; Current location: Uzbekistan
-- 👨‍💻 &nbsp; Backend Engineer
+- 📍 &nbsp; <b>Current location: Uzbekistan</b>
+- 👨‍💻 &nbsp; <b>Backend Engineer</b>
